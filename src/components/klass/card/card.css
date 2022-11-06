@@ -1,0 +1,190 @@
+.card-background {
+    position: absolute;
+    width: 1464.39px;
+    height: 1384.52px;
+    left: 227.38px;
+    top: 1106.28px;
+    background: #FFFFFF;
+    box-shadow: 0px 50px 40px -20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    /* z-index: ; */
+}
+
+.children1 {
+    position: absolute;
+    width: 1464.39px;
+    height: 484.58px;
+    right: 19.41px;
+    top: 258.55px;
+    background: url('../../../assets/Children.png');
+}
+
+.book-set1 {
+    position: absolute;
+    width: 255.6px;
+    height: 453.96px;
+    left: -100.41px;
+    top: 160.55px;
+    background: url('../../../assets/Bookset.png');
+}
+
+.books1 {
+    position: absolute;
+    width: 311.52px;
+    height: 123.81px;
+    left: 20px;
+    top: 630px;
+    background: url('../../../assets/Books.png');
+}
+
+.lamp1 {
+    position: absolute;
+    width: 127.8px;
+    height: 118.48px;
+    left: 388.11px;
+    top: 142.73px;
+    background: url('../../../assets/Lamp.png');
+}
+
+.book-card-bg1 {
+    position: absolute;
+    width: 160.6px;
+    height: 150.6px;
+    left: 111px;
+    top: 40px;
+    background: url('../../../assets/Book-orange.png');
+}
+
+.book-card-bg2 {
+    position: absolute;
+    width: 50.17px;
+    height: 50.17px;
+    left: 639px;
+    top: 326px;
+    background: url('../../../assets/Book-orange.png');
+    background-size: 50px;
+    transform: rotate(-35.5deg);
+}
+
+.laptop-card-bg2 {
+    position: absolute;
+    width: 125.12px;
+    height: 125.12px;
+    left: 563px;
+    top: 28px;
+    background: url('../../../assets/Laptop-orange.png');
+}
+
+.pencil-card-bg1 {
+    position: absolute;
+    width: 55.91px;
+    height: 55.58px;
+    left: 333px;
+    top: 28px;
+    background: url('../../../assets/Pencil-orange.png');
+}
+
+.pencil-card-bg2 {
+    position: absolute;
+    width: 38.91px;
+    height: 39px;
+    left: 675px;
+    top: 219px;
+    background: url('../../../assets/Pencil-orange.png');
+    background-size: 40px;
+    transform: rotate(-90.5deg);
+}
+
+.star-card-bg1 {
+    position: absolute;
+    width: 40.91px;
+    height: 40px;
+    left: 283px;
+    top: 251px;
+    background: url('../../../assets/Star-orange.png');
+    background-size: 40px;
+    /* transform: rotate(-90.5deg); */
+}
+
+.star-card-bg2 {
+    position: absolute;
+    width: 27.91px;
+    height: 27px;
+    left: 571px;
+    top: 261px;
+    background: url('../../../assets/Star-orange.png');
+    background-size: 25px;
+    transform: rotate(-90.5deg);
+}
+
+.klass-bit-card {
+    position: absolute;
+    width: 419.35px;
+    height: 127.8px;
+    left: 787.16px;
+    top: 40.47px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    color: #F5674C;
+}
+
+.title-orange {
+    position: absolute;
+    width: 509.88px;
+    height: 55.91px;
+    left: 787.16px;
+    top: 180.47px;
+
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px;
+
+    color: #F5674C;
+}
+
+.paragraph-card1 {
+    position: absolute;
+    width: 400.41px;
+    height: 255.6px;
+    left: 787.16px;
+    top: 250.47px;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #444444;
+}
+
+.paragraph-card2 {
+    position: absolute;
+    width: 400.41px;
+    height: 255.6px;
+    left: 787.16px;
+    top: 390.47px;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #444444;
+}
+
+.btn-card1 {
+    position: absolute;
+    width: 113.16px;
+    height: 46.59px;
+    left: 1014.16px;
+    top: 0.05px;
+    background: #F4674C;
+    box-shadow: 0px 8px 10px -7px #CC3F24;
+    border-radius: 30px;
+    border: none;
+}

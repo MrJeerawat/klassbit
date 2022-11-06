@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@500&display=swap');
+
+.main {
+
+    width: 869.32px;
+    height: 79.88px;
+    left: 473.66px;
+    top: 43.93px;
+    display: flex;
+    align-items: center;
+    background: #F4674C;
+    justify-content: space-evenly;
+    border: 3px solid #F47A69;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.menu-item{
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.contact-no{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    text-align: center;
+}

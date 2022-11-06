@@ -1,0 +1,197 @@
+.container-about {
+    position: absolute;
+    width: 1915.69px;
+    height: 934.55px;
+    left: 2.4px;
+    top: 4631.48px;
+    background: #F5674C;
+    z-index: -4;
+}
+
+.container-about-sec {
+    position: absolute;
+    width: 1917.02px;
+    height: 328.82px;
+    left: 2.4px;
+    top: 5550.05px;
+    background: #F5674C;
+    box-shadow: 0px 4px 48px rgba(0, 0, 0, 0.25);
+    z-index: -3;
+}
+
+.contract1-bg1 {
+    position: absolute;
+    width: 339.32px;
+    height: 339.32px;
+    left: -50.16px;
+    top: -50.9px;
+    background: url('../../assets/Book.png');
+    background-size: 339.25px;
+
+}
+
+.contract1-bg2 {
+    position: absolute;
+    width: 240.55px;
+    height: 240.55px;
+    left: 168.16px;
+    top: 267.9px;
+    background: url('../../assets/Laptop.png');
+    background-size: 240.55px;
+    transform: rotate(40.41deg);
+
+}
+
+.contract1-bg3 {
+    position: absolute;
+    width: 271.04px;
+    height: 271.04px;
+    left: 72.16px;
+    top: 700.9px;
+    background: url('../../assets/Pencil.png');
+    background-size: 271.04px;
+
+}
+
+.contract1-bg4 {
+    position: absolute;
+    width: 240.55px;
+    height: 240.55px;
+    left: 600.16px;
+    top: -50.9px;
+    background: url('../../assets/Laptop.png');
+    background-size: 240.55px;
+
+}
+
+.contract1-bg5 {
+    position: absolute;
+    width: 339.32px;
+    height: 339.32px;
+    left: 611.16px;
+    top: 670.9px;
+    background: url('../../assets/Book.png');
+    background-size: 339.25px;
+    transform: rotate(40.41deg);
+
+
+}
+
+.contract1-bg6 {
+    position: absolute;
+    width: 194.34px;
+    height: 194.34px;
+    left: 953px;
+    top: 285.9px;
+    background: url('../../assets/Pencil.png');
+    background-size: 195.25px;
+    transform: rotate(95.41deg);
+
+
+}
+
+.contract1-bg7 {
+    position: absolute;
+    width: 194.34px;
+    height: 194.34px;
+    left: 1280.16px;
+    top: 0.9px;
+    background: url('../../assets/Pencil.png');
+    background-size: 194.34px;
+    transform: rotate(-20deg);
+
+
+}
+
+.contract1-bg8 {
+    position: absolute;
+    width: 396.42px;
+    height: 396.42px;
+    left: 1671.16px;
+    top: 50.9px;
+    background: url('../../assets/Laptop.png');
+    background-size: 396.42px;
+    transform: rotate(30deg);
+
+
+}
+
+.contract1-bg9 {
+    position: absolute;
+    width: 339.32px;
+    height: 339.32px;
+    left: 1376.16px;
+    top: 356.9px;
+    background: url('../../assets/Book.png');
+    background-size: 339.25px;
+
+}
+
+.contract1-bg10 {
+    position: absolute;
+    width: 292.59px;
+    height: 292.59px;
+    left: 1123.16px;
+    top: 690.9px;
+    background: url('../../assets/Laptop.png');
+    background-size: 292.59px;
+    transform: rotate(30deg);
+}
+
+.contract1-bg10 {
+    position: absolute;
+    width: 960.52px;
+    height: 676.42px;
+    left: 982.43px;
+    top: 250.18px;
+
+    /* transform: matrix(-1, -0.07, -0.07, 1, 0, 0); */
+    background: url('../../assets/Phone.png');
+    transform: rotate(0deg);
+
+
+}
+
+.contract1-bg-qr1 {
+    position: absolute;
+    width: 366.1px;
+    height: 364.77px;
+    left: 480.27px;
+    top: 400.6px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.contract1-bg-qr2 {
+    position: absolute;
+    width: 339.47px;
+    height: 338.14px;
+    left: 12.58px;
+    top: 12.91px;
+    background: url('../../assets/QR.png');
+}
+
+.contract1-bg-ggp {
+
+    position: absolute;
+    width: 175.73px;
+    height: 55.91px;
+    left: 485.27px;
+    top: 800.34px;
+    background: url('../../assets/GGP.png');
+}
+
+.contract1-bg-app {
+    position: absolute;
+    width: 167.74px;
+    height: 55.91px;
+    left: 675.27px;
+    top: 800.34px;
+    background: url('../../assets/APP.png');
+}
+
+.focus {
+    outline: none;
+    border: none;
+}

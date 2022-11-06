@@ -1,0 +1,450 @@
+.container-courses {
+    position: absolute;
+    width: 1917.02px;
+    height: 1042.38px;
+    left: 2.4px;
+    top: 2650.55px;
+    background: #FFF5DF;
+    box-shadow: 0px 13px 25px rgba(0, 0, 0, 0.25);
+    z-index: -2;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+}
+
+.container-courses-sec {
+    position: absolute;
+    width: 1922.35px;
+    height: 1166.19px;
+    left: 2.4px;
+    top: 3579.78px;
+    background: #FAFAFA;
+    box-shadow: 0px 13px 25px rgba(0, 0, 0, 0.25);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 90%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 90%);
+    z-index: -3;
+}
+
+.course-bg1 {
+    position: absolute;
+    width: 205.33px;
+    height: 180.82px;
+    left: 938.47px;
+    /* top: 0.12px; */
+    bottom: 925px;
+    opacity: 0.5;
+
+    background: url('../../assets/Pencil-course.png');
+    /* background-size: 150px; */
+}
+
+.course-bg2 {
+    position: absolute;
+    width: 200.49px;
+    height: 190.49px;
+    left: 1402.89px;
+    top: 61.64px;
+
+    background: url('../../assets/Laptop-course.png');
+    opacity: 0.5;
+    /* transform: rotate(-24.41deg); */
+}
+
+.course-bg3 {
+    position: absolute;
+    width: 248.22px;
+    height: 248.22px;
+    left: 1682.96px;
+    top: -61.64px;
+    /* bottom: 81px; */
+
+    background: url('../../assets/Book-course.png');
+    opacity: 0.5;
+    /* transform: rotate(-24.41deg); */
+}
+
+.course-bg4 {
+    position: absolute;
+    width: 200.3px;
+    height: 200.3px;
+    left: 316.96px;
+    top: -71.64px;
+    /* bottom: 81px; */
+
+    background: url('../../assets/Laptop-course.png');
+    opacity: 0.5;
+    transform: rotate(54.41deg);
+}
+
+.course-bg5 {
+    position: absolute;
+    width: 110.78px;
+    height: 110.78px;
+    left: 36.96px;
+    top: 53.64px;
+    /* bottom: 81px; */
+
+    background: url('../../assets/Star-course.png');
+    opacity: 0.5;
+    transform: rotate(54.41deg);
+}
+
+.course-bg6 {
+    position: absolute;
+    width: 122.78px;
+    height: 120.78px;
+    left: 1761.96px;
+    top: 335.64px;
+    /* bottom: 81px; */
+
+    background: url('../../assets/Star-course.png');
+    opacity: 0.5;
+    transform: rotate(54.41deg);
+}
+
+.course-bg7 {
+    position: absolute;
+    width: 63.88px;
+    height: 63.88px;
+    left: 1684.96px;
+    top: 420.64px;
+    /* bottom: 81px; */
+    background: url('../../assets/Star-course.png');
+    opacity: 0.5;
+    background-size: 70px;
+    /* transform: rotate(54.41deg); */
+}
+
+.course-bg8 {
+    position: absolute;
+    width: 63.88px;
+    height: 63.88px;
+    left: 1624.96px;
+    top: 311.64px;
+    /* bottom: 81px; */
+    background: url('../../assets/Star-course.png');
+    opacity: 0.5;
+    background-size: 70px;
+    /* transform: rotate(54.41deg); */
+}
+
+.course-bg9 {
+    position: absolute;
+    width: 180.49px;
+    height: 187.49px;
+    left: 1795.96px;
+    top: 743.64px;
+    /* bottom: 81px; */
+    background: url('../../assets/Laptop-course.png');
+    opacity: 0.5;
+    transform: rotate(34.41deg);
+}
+
+.course-bg10 {
+    position: absolute;
+    width: 205.49px;
+    height: 200.49px;
+    left: 1459.96px;
+    top: 673.64px;
+    /* bottom: 81px; */
+    background: url('../../assets/Pencil-course.png');
+    opacity: 0.5;
+    transform: rotate(-5.41deg);
+}
+
+.course-bg11 {
+    position: absolute;
+    width: 180.49px;
+    height: 180.49px;
+    left: 894.96px;
+    top: 683.64px;
+    /* bottom: 81px; */
+    background: url('../../assets/Book-orange.png');
+    opacity: 0.3;
+    transform: rotate(-5.41deg);
+    background-size: 180px;
+}
+
+.course-bg12 {
+    position: absolute;
+    width: 63.88px;
+    height: 63.88px;
+    left: 672.96px;
+    top: 865.64px;
+    /* bottom: 81px; */
+    background: url('../../assets/Star-course.png');
+    opacity: 0.5;
+    background-size: 70px;
+    /* transform: rotate(54.41deg); */
+}
+
+.course-bg13 {
+    position: absolute;
+    width: 120.49px;
+    height: 120.49px;
+    left: 467.96px;
+    top: 720.64px;
+    /* bottom: 81px; */
+    background: url('../../assets/Pencil-course.png');
+    opacity: 0.5;
+    transform: rotate(100.41deg);
+    background-size: 120px;
+}
+
+.course-bg14 {
+    position: absolute;
+    width: 195.49px;
+    height: 187.49px;
+    right: 1672.96px;
+    top: 756.64px;
+    /* bottom: 81px; */
+    background: url('../../assets/Laptop-course.png');
+    opacity: 0.5;
+    /* transform: rotate(34.41deg); */
+}
+
+.lab-gb1 {
+    position: absolute;
+    width: 785.45px;
+    height: 656.31px;
+    left: 2.4px;
+    top: 119.37px;
+    background: #FFFFFF;
+    box-shadow: 0px 50px 40px -20px rgba(245, 103, 76, 0.25);
+    border-radius: 0px 15px 15px 0px;
+}
+
+.lab-gb2 {
+    position: absolute;
+    width: 760.43px;
+    height: 630.15px;
+    left: 2.45px;
+    top: 15.34px;
+    background: url('../../assets/Lab.png');
+    border-radius: 10px
+}
+
+.lab-gb3 {
+    position: absolute;
+    width: 340.05px;
+    height: 100.4px;
+    left: 53.6px;
+    top: 550.55px;
+    background: #FFFFFF;
+    border-radius: 0px 15px 15px 0px;
+}
+
+.course-title {
+    position: absolute;
+    width: 360.77px;
+    height: 127.8px;
+    left: 862.06px;
+    top: 110.3px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    color: #F5674C;
+}
+
+.course-title2 {
+    position: absolute;
+    width: 443.31px;
+    height: 55.91px;
+    left: 865.06px;
+    top: 255.81px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center;
+    font-family: 'Noto Sans Thai', sans-serif;
+    color: #F5674C;
+}
+
+.paragraph-courses1 {
+    position: absolute;
+    width: 480.66px;
+    height: 95.85px;
+    left: 865.06px;
+    top: 348.35px;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #444444;
+
+}
+
+.carousel-bg1 {
+    position: absolute;
+    width: 152.53px;
+    height: 152.53px;
+    left: 1720.93px;
+    top: 281.05px;
+    background: url('../../assets/Ellipse.png');
+
+}
+
+.carousel-bg2 {
+    position: absolute;
+    width: 152.53px;
+    height: 152.53px;
+    left: 1800.93px;
+    top: 446.05px;
+    background: url('../../assets/Ellipse.png');
+
+}
+
+.carousel-bg3 {
+    position: absolute;
+    width: 80.53px;
+    height: 80.53px;
+    left: 1674.93px;
+    top: 438.05px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 81px;
+
+}
+
+.carousel-bg4 {
+    position: absolute;
+    width: 50.53px;
+    height: 50.53px;
+    left: 1822.93px;
+    top: 125.05px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 50px;
+
+
+}
+
+.carousel-bg5 {
+    position: absolute;
+    width: 50.53px;
+    height: 50.53px;
+    left: 1557.93px;
+    top: 165.05px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 50px;
+
+}
+
+.carousel-bg6 {
+    position: absolute;
+    width: 23.53px;
+    height: 23.53px;
+    left: 1844.93px;
+    top: 100.05px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 23px;
+
+}
+
+.carousel-bg7 {
+    position: absolute;
+    width: 23.53px;
+    height: 23.53px;
+    left: 1900.93px;
+    top: 264.05px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 23px;
+
+}
+
+.carousel-bg8 {
+    position: absolute;
+    width: 193.21px;
+    height: 193.21px;
+    left: -21.14px;
+    top: 576.96px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 193px;
+
+}
+
+.carousel-bg9 {
+    position: absolute;
+    width: 126.25px;
+    height: 126.25px;
+    left: -72.16px;
+    top: 720.9px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 126px;
+
+}
+
+.carousel-bg10 {
+    position: absolute;
+    width: 60.25px;
+    height: 60.25px;
+    left: 279.16px;
+    top: 714.9px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 60px;
+
+}
+
+.carousel-bg11 {
+    position: absolute;
+    width: 30.25px;
+    height: 30.25px;
+    left: 338.16px;
+    top: 775.9px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 30px;
+
+}
+
+.carousel-bg12 {
+    position: absolute;
+    width: 39.25px;
+    height: 39.25px;
+    left: 82.16px;
+    top: 515.9px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 40px;
+
+}
+
+.carousel-bg13 {
+    position: absolute;
+    width: 19.25px;
+    height: 19.25px;
+    left: 117.16px;
+    top: 497.9px;
+    background: url('../../assets/Ellipse.png');
+    background-size: 19.25px;
+
+}
+
+.carousel-title1 {
+    position: absolute;
+    width: 946.53px;
+    height: 127.8px;
+    left: 486.98px;
+    top: 193.81px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    color: #F5674C;
+}
+
+.carousel-title2 {
+    position: absolute;
+    width: 746.84px;
+    height: 55.91px;
+    left: 586.82px;
+    top: 330.61px;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center;
+    color: #F5674C;
+}
